@@ -10,4 +10,4 @@ Goals - to automate playlists, and also understand the kind of music that I list
 
 ![32dcb860-cec5-48cd-97ca-3381849848bd](https://github.com/user-attachments/assets/62ce87ca-43a4-4e23-9cc5-268a2a5728c1)
 ![80d70e4b-a303-4f14-af35-2a78f60ffd90](https://github.com/user-attachments/assets/c39714c3-f6cf-4f00-934b-2acd1ab7ce6b)
-![Uploading b44d113c-4dd7-4853-ad5d-2d8c6c12145a.png…]()
+![b44d113c-4dd7-4853-ad5d-2d8c6c12145a](https://github.com/user-attachments/assets/da8c3ce6-77f9-4f2b-997a-3df6bf2a8925)
